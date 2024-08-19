@@ -1,7 +1,7 @@
 # Johan 'Speekz' Bejar
 
 ## About Me
-I'm a software developer with a tech stack based on JavaScript. My experience as a systems engineer allows me to understand, design, and develop large-scale web applications.
+I have worked on the Front-End side for VC-funded startups like Lifebrand. I also created a ticketing system for the Peru Comic Con 23 and a platform for CSGO players to find matches across Latin America. I loved talking to stakeholders and am happy to contribute to building modern web apps.
 
 📁 [My Portfolio](https://johanbejar.com/)
 
